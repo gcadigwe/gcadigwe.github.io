@@ -339,6 +339,7 @@ img {
   opacity: 0;
   transition: 1s;
   cursor: pointer;
+  padding: 10px;
 }
 
 .image__overlay:hover {
